@@ -9,20 +9,29 @@
 ## 🔧 Teknik Beceriler
 
 ### 🚀 Diller ve Teknolojiler
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📊 Veri Analizi & Makine Öğrenmesi
+### 📊 Veri Analizi ve Bilim Kütüphaneleri
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
+### 🤖 Makine Öğrenmesi
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Çalışma Ortamları ve Araçlar
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 ---
 
-## 📚 Currently Learning
+## 📚 Şu Anda Öğreniyorum
 
-- 📈 Aktif olarak **Veri Analizi Bootcamp** programına katılıyorum ve veri analizi becerilerimi ileri seviyeye taşıyorum.  
+- 🎯 Aktif olarak **Patika.dev ve Kız Başına işbirliğiyle düzenlenen Veri Analizi Bootcamp** programına katılıyorum ve veri analizi becerilerimi ileri seviyeye taşıyorum.
 - 🧠 Yapay Zeka ve Makine Öğrenmesi konularında kendimi geliştiriyorum.
 
 ---
